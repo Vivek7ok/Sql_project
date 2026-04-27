@@ -10,7 +10,7 @@ A SQL-based exploratory data analysis of the Zepto quick-commerce product catalo
 |---|---|---|
 | `category` | VARCHAR | Product category (14 distinct values) |
 | `name` | VARCHAR | Product display name |
-| `mrp` | NUMERIC | Maximum Retail Price (in ₹, converted from paise) |
+| `mrp` | NUMERIC | Maximum Retail Price (in ₹, converted from paise) | 
 | `discountPercent` | NUMERIC | Discount percentage at time of listing |
 | `discountedSellingPrice` | NUMERIC | Actual selling price after discount |
 | `availableQuantity` | INTEGER | Units currently in stock |
